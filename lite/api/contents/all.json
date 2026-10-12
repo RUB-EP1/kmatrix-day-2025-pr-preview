@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-10-12T20:46:52.151100Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-12T20:44:31.474900Z",
+      "mimetype": null,
+      "name": "finding-poles.ipynb",
+      "path": "finding-poles.ipynb",
+      "size": 20818,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-10-12T20:46:52.150743Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-10-12T20:44:31.474900Z",
+      "mimetype": null,
+      "name": "finding-poles-2channels.ipynb",
+      "path": "finding-poles-2channels.ipynb",
+      "size": 18860,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2026-10-12T20:46:52.151100Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-10-12T20:46:52.151100Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
